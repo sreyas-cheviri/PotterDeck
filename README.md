@@ -3,6 +3,7 @@
 
 ## Overview
 
+this was a week3 100xdev assignment on DOM.
 **PotterDeck** is a web application that allows users to explore their favorite characters from the Harry Potter universe. With an intuitive interface, users can search for characters by name or filter them by their Hogwarts house. The application dynamically retrieves character data and displays it in visually appealing cards, making it easy to dive into the magical journeys of beloved characters.
 
 ## Technologies Used
