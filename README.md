@@ -1,7 +1,3 @@
-# PotterDeck
-Certainly! Here’s a well-structured README description for your Harry Potter character cards project that you can use on GitHub:
-
----
 
 # PotterDeck
 
