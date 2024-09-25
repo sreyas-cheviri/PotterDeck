@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PotterDeck</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Jacquarda+Bastarda+9&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+    <link rel="icon" href="imgs/2730320_colour_golden_harry_potter_quidditch_icon.png" type="image/x-icon">
+</head>
+
+<body>
+    <nav>
+        <button class="topbs"><a href="https://github.com/sreyas-cheviri" target="_blank">Github</a></button>
+        <h1 style="margin: 0%;">P O T T E R &nbsp; D E C K</h1> <button class="topbs"><a
+                href="https://x.com/sreyascheviri" target="_blank">Twitter</a></button>
+    </nav>
+    <img src="imgs/0e181d72fbbec9506073ae0899496f8c-removebg-preview.png" alt="" id="harry">
+    <h3 style="color: white; margin-bottom: 0;">Find your favorite Harry Potter character and dive into their magical
+        journey!</h3>
+    <div class="holder">
+        <input type="text" id="search-bar" placeholder="Search characters...">
+        <select id="house-filter"style="padding-right: 30px; appearance: none; ">
+            <option class="option" value="all">All Houses</option>
+            <option class="option" value="Gryffindor">Gryffindor</option>
+            <option class="option" value="Slytherin">Slytherin</option>
+            <option class="option" value="Hufflepuff">Hufflepuff</option>
+            <option class="option" value="Ravenclaw">Ravenclaw</option>
+        </select>
+        <a> <button type="submit" id="sub" onclick=" filterCards()">Get cards</button></a>
+        
+    </div>
+    <p class="" id="loading" style="color: aliceblue; font-size: larger;"></p>
+    <div id="cards-container"></div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
