@@ -5,13 +5,6 @@
 
 **PotterDeck** is a web application that allows users to explore their favorite characters from the Harry Potter universe. With an intuitive interface, users can search for characters by name or filter them by their Hogwarts house. The application dynamically retrieves character data and displays it in visually appealing cards, making it easy to dive into the magical journeys of beloved characters.
 
-## Features
-
-- **Dynamic Character Search**: Quickly find characters using a search bar that filters results based on user input.
-- **House Filtering**: Narrow down character selection by filtering according to the Hogwarts house (Gryffindor, Slytherin, Hufflepuff, Ravenclaw, or All Houses).
-- **Responsive Design**: Enjoy a seamless experience on both desktop and mobile devices with a responsive layout.
-- **User-Friendly Interface**: Simple and elegant UI that enhances the browsing experience.
-
 ## Technologies Used
 
 - **HTML5**: For the basic structure and content of the web application.
@@ -30,7 +23,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/potterdeck.git
+   git clone https://github.com/sreyas-cheviri/potterdeck.git
    ```
    
 2. **Navigate to the project directory**:
