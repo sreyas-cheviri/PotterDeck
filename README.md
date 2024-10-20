@@ -59,4 +59,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to customize any section to better fit your project specifics, such as the installation instructions or any additional features you may want to highlight!
